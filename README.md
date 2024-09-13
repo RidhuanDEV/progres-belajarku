@@ -1,5 +1,4 @@
-# progres-belajarku
-Progres Belajar di dicoding
+# Progres Belajar di dicoding
 
 **13 September 2024**<br>
 Belajar Git dan Github (Progres 38%)
