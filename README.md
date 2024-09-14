@@ -9,3 +9,7 @@ Belajar Git dan Github (Progres 38%)
 Belajar Git dan Github Progres (39%)
 * Belajar menambahkan progress
 * Belajar Commit
+**14 September 2024**<br>
+Belajar Git dan Github Progres (80%)
+* Belajar menambahkan progress
+* Belajar Commit
